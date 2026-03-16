@@ -43,6 +43,7 @@ Currently a **GSoC 2026 aspirant** — exploring CPython internals and agentic p
 | [MERN Project](https://github.com/Phaneendra-25/ReGive) | Full-stack web application | MongoDB, Express, React, Node.js |
 | [Weather Dashboard](https://github.com/Phaneendra-25/Weather-Dashboard) | Real-time weather visualization | Vue.js, Chart.js, REST API |
 | [Civic Connect](https://github.com/Phaneendra-25/civiconnect) | Real-time Issue Reporting System | React-Vite,Tailwindcss,Firebase |
+| [AI Trading Journal](https://ai-trading-journalaudit.streamlit.app/) | Multi-agent AI trading journal with Gemini AI | Python, Streamlit, Pandas, Plotly |
 
 ---
 
