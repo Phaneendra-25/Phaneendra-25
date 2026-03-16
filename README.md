@@ -39,16 +39,17 @@ Currently a **GSoC 2026 aspirant** — exploring CPython internals and agentic p
 
 | Project | Description | Stack |
 |---|---|---|
-| [Portfolio](https://github.com/Phaneendra-25) | Personal developer portfolio | Next.js, TailwindCSS, Three.js |
-| [MERN Project](https://github.com/Phaneendra-25) | Full-stack web application | MongoDB, Express, React, Node.js |
-| [Weather Dashboard](https://github.com/Phaneendra-25) | Real-time weather visualization | Vue.js, Chart.js, REST API |
+| [Portfolio](https://github.com/Phaneendra-25/Portfolio) | Personal developer portfolio | Next.js, TailwindCSS, Three.js |
+| [MERN Project](https://github.com/Phaneendra-25/ReGive) | Full-stack web application | MongoDB, Express, React, Node.js |
+| [Weather Dashboard](https://github.com/Phaneendra-25/Weather-Dashboard) | Real-time weather visualization | Vue.js, Chart.js, REST API |
+| [Civic Connect](https://github.com/Phaneendra-25/civiconnect) | Real-time Issue Reporting System | React-Vite,Tailwindcss,Firebase |
 
 ---
 
 ## 📌 Currently
 
 - 🔭 Working on: Python backend systems and AI agent architectures
-- 🌱 Learning: CPython internals, Godot game engine, agentic programming
+- 🌱 Learning: CPython internals, Godot game engine, agentic programming , DSA ,Springboot , Pipelines
 - 💬 Ask me about: Python, FastAPI, Docker, full-stack development
 - 📫 Reach me: **phaneendhranaidu@gmail.com**
 
